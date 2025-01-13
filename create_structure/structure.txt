@@ -1,0 +1,8 @@
+../../pet_vision/data/train/cats/
+../../pet_vision/data/train/dogs/
+../../pet_vision/data/validation/cats/
+../../pet_vision/data/validation/dogs/
+../../pet_vision/models/saved_model/
+../../pet_vision/scripts/train.py
+../../pet_vision/scripts/predict.py
+../../pet_vision/requirements.txt
